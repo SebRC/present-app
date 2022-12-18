@@ -7,7 +7,7 @@ export const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        Some text
+        Some text more
         <Page />
         <img src={logo} className="App-logo" alt="logo" />
       </header>
